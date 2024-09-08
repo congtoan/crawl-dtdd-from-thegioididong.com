@@ -1,6 +1,6 @@
 # Crawl Mobile Listings from TheGioiDiDong.com
 
-This repository contains a Python script that crawls mobile phone listings from the website [TheGioiDiDong.com](https://www.thegioididong.com). It scrapes the phone names and prices within specific price ranges and exports the details into an Excel file. The extracted information includes the `href` link and `data-name` for each phone listing.
+This repository contains a Python script that crawls mobile phone listings from the website TheGioiDiDong.com. It scrapes the phone names and prices within specific price ranges and exports the details into an Excel file. The extracted information includes the `href` link and `data-name` for each phone listing.
 
 ## Features
 - Scrapes mobile phone listings for different brands and price ranges.

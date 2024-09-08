@@ -10,6 +10,7 @@ This repository contains a Python script that crawls mobile phone listings from 
 
 ## Price Ranges
 The tool crawls phones from the following price ranges:
+- **Under 2 million VND** (`duoi-2-trieu`)
 - **2-4 million VND** (`tu-2-4-trieu`)
 - **4-7 million VND** (`tu-4-7-trieu`)
 - **7-13 million VND** (`tu-7-13-trieu`)
@@ -36,5 +37,5 @@ The tool is currently set up to crawl the following mobile phone brands:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/crawl-dtdd-from-thegioididong.com.git
+   git clone https://github.com/congtoan/crawl-dtdd-from-thegioididong.com.git
    cd crawl-dtdd-from-thegioididong.com

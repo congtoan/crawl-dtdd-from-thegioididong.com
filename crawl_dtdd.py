@@ -24,6 +24,7 @@ phone_names = [
 
 # List of price ranges
 price_ranges = [
+    'duoi-2-trieu',
     'tu-2-4-trieu',
     'tu-4-7-trieu',
     'tu-7-13-trieu',
